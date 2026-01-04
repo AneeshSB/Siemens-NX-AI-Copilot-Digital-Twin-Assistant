@@ -6,7 +6,7 @@
 ![NX AI Demo](Demo/NX%20AI%20demo.gif)
 
 
-📺 [Click here to watch the Full High-Quality Video](demo/NX%20AI%20Full%20Video.mp4)
+📺 [Click here to watch the full High-Quality Video](demo/NX%20AI%20Full%20Video.mp4)
 
 ##  Problem Statement
 In traditional CAD workflows (Aerospace/Automotive/Wind), engineers face two major bottlenecks:
