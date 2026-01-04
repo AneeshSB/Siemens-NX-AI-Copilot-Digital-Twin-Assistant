@@ -3,7 +3,7 @@
 
 **An AI-powered engineering assistant for Siemens NX that controls CAD modeling and Digital Twin analysis using Natural Language commands. Powered by Google Gemini Flash, Python.**
 
-![Demo](demo.gif)
+![Demo](NX AI demo.gif)
 *(Placeholder for your high-quality GIF/Video)*
 
 ##  Problem Statement
